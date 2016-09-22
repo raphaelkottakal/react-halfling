@@ -4,7 +4,7 @@
   "description": "A simple two column component",
   "main": "index.js",
   "scripts": {
-    "build": "./node_modules/.bin/babel helloworld.js -o index.js",
+    "build": "./node_modules/.bin/babel src/halfling.js -o index.js",
     "prepublish": "npm run build"
   },
   "repository": {

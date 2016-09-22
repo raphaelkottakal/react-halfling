@@ -33,7 +33,7 @@ var Halfling = function (_React$Component) {
       return _react2.default.createElement(
         'div',
         null,
-        'Halfling'
+        'Halfling pushed'
       );
     }
   }]);
